@@ -1,4 +1,4 @@
 # docker for jenkins and react native android
 
-## hub.docker.com
-https://hub.docker.com/r/lotosbin/docker-jenkins-android-react-native/
+## 阿里云docker registry
+docker pull registry.cn-beijing.aliyuncs.com/porcupine/jenkins-rn
