@@ -1,5 +1,5 @@
 # Jenkins comes with JDK8 https://hub.docker.com/_/jenkins/
-FROM jenkins:latest
+FROM jenkins:2.60.3
 
 # Set desired Android Linux SDK version
 ENV ANDROID_SDK_VERSION 24.4.1
